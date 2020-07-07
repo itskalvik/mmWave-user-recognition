@@ -12,6 +12,9 @@ radar data to spectrograms and use deep learning methods for user recognition. T
             embeddings from pretrained models
   - `mmwave_studio_scripts/`: Scripts used to collect radar data from [TI mmWave Studio](https://www.ti.com/tool/MMWAVE-STUDIO) along with video/depth data from [Microsoft Kinect Azure](https://azure.microsoft.com/en-us/services/kinect-dk/) camera. Use `*3d` files to record camera data along with radar data.
         
+## Tripod mount for TI mmWave radar and cameras
+You can 3d print [this](https://www.thingiverse.com/thing:3780598) tripod mount for the TI radar and camera.
+        
 ## Citation
 Please cite the following paper if you use this repository in your research.
 ```
