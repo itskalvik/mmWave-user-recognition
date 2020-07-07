@@ -1,0 +1,13 @@
+h5py
+joblib
+matplotlib
+numpy
+opencv-python
+Pillow
+pyyaml
+scikit-image
+scikit-learn
+scipy
+tensorboard>=2.0.0
+tensorflow>=2.0.0
+tqdm
